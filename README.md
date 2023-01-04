@@ -4,3 +4,5 @@ In this project, I am going to build a basic recipe website using all of the HTM
 
 - creating and naming directories and html files.
 - adding headings, links to the recipe pages, images, paragraphs, and ordered and unordered lists to the body.
+- using the external CSS method. 
+- using properties such as color, background color, and etcetera. 
