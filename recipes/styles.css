@@ -1,5 +1,8 @@
 h1 {
     background-color: transparent;
     color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
     text-align: left;
 }
