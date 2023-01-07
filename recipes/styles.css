@@ -19,5 +19,8 @@ h2 {
 p {
     background-color: transparent;
     color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
     text-align: left;
 }
