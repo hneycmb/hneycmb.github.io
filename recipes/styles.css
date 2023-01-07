@@ -27,5 +27,7 @@ p {
 ul {
     background-color: transparent;
     color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
     text-align: left;
 }
