@@ -23,3 +23,9 @@ p {
     font-size: 20px;
     text-align: left;
 }
+
+ul {
+    background-color: transparent;
+    color: black;
+    text-align: left;
+}
